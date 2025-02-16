@@ -1,4 +1,6 @@
 Movie Box Office Revenue Prediction Using TMDB Dataset
+
+
 This project is designed to predict movie box office revenue using a comprehensive dataset from TMDB. The workflow encompasses retrieving the data, cleaning and engineering features, conducting exploratory analyses, building a predictive regression model, tuning its hyperparameters, and finally preparing the model for deployment. The final prediction model is based on a Random Forest regressor that operates within a complete scikit-learn pipeline.
 
 1. Data Acquisition and Loading
